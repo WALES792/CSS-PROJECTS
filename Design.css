@@ -1,0 +1,58 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.not{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+span{
+    font-size: 10px;
+}
+.one{
+    background-color: white;
+    background-image: url(https://dl.dropbox.com/scl/fi/wfkgiyfy2ua5qqyonsp2x/Untitled-1.png?rlkey=h1spghcgge3jo2f5nf2q4m4o5&dl=0);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 34%;
+    width: 95%;
+    height: 50%;
+}
+.two{
+    color: white;
+}
+#Design{
+    /* padding: 0% 26%; */
+    position:absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 50px;
+    font-weight: 50;
+}
+.two{
+    color: rgb(222, 222, 222);
+    text-align: left;
+    padding: 0% 27%;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+}
+peet{
+    color: rgba(255, 255, 255, 0.1);
+}
+#bag{
+    text-align: center;
+}
+#car{
+    text-align: center;
+    position: absolute;
+    top: 15%;
+    left: 49%;
+}
